@@ -1,0 +1,21 @@
+{
+  "name": "prova-bahia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "everpolate": "0.0.3",
+    "inquirer": "^7.1.0",
+    "ndarray-determinant": "^1.0.0",
+    "ndarray-pack": "^1.2.1",
+    "prompt": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
